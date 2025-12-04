@@ -5,7 +5,7 @@ import os
 import io
 import xlrd
 ##
-os.chdir("Directory/Name")
+os.chdir("Directory//Name")
 current_file = "Data Results.xlsx"
 ##
 passkey = input("Please enter password: ")
